@@ -9,12 +9,10 @@ To play the game
 `(load "path/to/slither.fas")`  
 `(slither)`  
 3. An introduction to the game will be shown with instructions on how to play the game. At the prompt, you will be asked to give path for the input board file.  
-      Enter input filepath : path/to/file  
-   The tournament boards are in the "boards" directory.  
-   The name of the files are the just the number. (Eg. 1 , 2 , 3 ,.... , 15)  
-4. After giving the input file path, you will be shown the intial board of the 
-   game and you will be asked whether you want to play it manually or want the program to solve it for you.  
-   If you choose to play it yourself, then jump to step 7.
+      `Enter input filepath : path/to/file`  
+   The tournament boards are in the "boards" directory. The name of the files are the just the number. (Eg. 1 , 2 , 3 ,.... , 15)  
+4. After giving the input file path, you will be shown the intial board of the game and you will be asked whether you want to play it manually or want the program to solve it for you.  
+   If you choose to play it yourself, then jump to step 7.  
    Else if you select automatic, continue from next step.
 6. It will take some time to solve the board depending on the size.
    While it is solving, it will show a PLEASE WAIT message.
