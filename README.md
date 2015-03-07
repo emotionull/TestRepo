@@ -10,12 +10,12 @@ To play the game
   (load "path/to/slither.fas")
   (slither)  
   ```  
-4. An introduction to the game will be shown with instructions on how to play the game.
+3. An introduction to the game will be shown with instructions on how to play the game.
    At the prompt, you will be asked to give path for the input board file.  
         Enter input filepath : path/to/file
    The tournament boards are in the "boards" directory.
    The name of the files are the just the number. (Eg. 1 , 2 , 3 ,.... , 15)
-5. After giving the input file path, you will be shown the intial board of the 
+4. After giving the input file path, you will be shown the intial board of the 
    game and you will be asked whether you want to play it manually or want the program to solve it for you.  
    If you choose to play it yourself, then jump to step 7.
    Else if you select automatic, continue from next step.
