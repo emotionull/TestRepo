@@ -22,7 +22,7 @@ To play the game
 5. It will take some time to solve the board depending on the size. While it is solving, it will show a PLEASE WAIT message. When solved, it will show the solved board and the time it took to solve it. Jump to step 9.  
 
 6. At the prompt, you will be asked to specify your move.  
-##MOVES  
+###Moves  
    To draw a line around a cell, its position in the board (x,y co-ordinates)
    followed by the direction where you want to draw it (T -> Top, D ->  Down, R -> Right, L -> Left)   
    Example: For line on top of cell 2,2; type -> 2 2 T  
