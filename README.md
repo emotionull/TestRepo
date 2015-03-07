@@ -3,9 +3,9 @@
 The game is written in clisp. Has been tested on Ubuntu and Windows Clisp.
 
 To play the game  
-   1. Go into clisp prompt. For ubuntu, go to terminal and type -> clisp  
-   2. Type `(compile-file "path/to/slither.lisp")`    
-   `(load "path/to/slither.fas")`  
+   1. Go into clisp prompt. For ubuntu, go to terminal and type `clisp `  
+   2. Type `(compile-file "path/to/slither.lisp")
+   (load "path/to/slither.fas")`    
    3. Type `(slither)`  *function call to slither*
 4. An introduction to the game will be shown with instructions on how to play the game.
    At the prompt, you will be asked to give path for the input board file.  
