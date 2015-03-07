@@ -4,8 +4,7 @@ The game is written in clisp. Has been tested on Ubuntu and Windows Clisp.
 
 To play the game  
 1. Go into clisp prompt. For ubuntu, go to terminal and type `clisp `  
-2. Type the following commands
-  ```
+2. Type the following commands```
   (compile-file "path/to/slither.lisp")
   (load "path/to/slither.fas")
   (slither)  
