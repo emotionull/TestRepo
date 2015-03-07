@@ -4,15 +4,14 @@ The game is written in clisp. Has been tested on Ubuntu and Windows Clisp.
 
 To play the game  
 1. Go into clisp prompt. For ubuntu, go to terminal and type `clisp `  
-2. Type the following commands
+2. Type the following commands  
 `(compile-file "path/to/slither.lisp")`  
 `(load "path/to/slither.fas")`  
 `(slither)`  
-3. An introduction to the game will be shown with instructions on how to play the game.
-   At the prompt, you will be asked to give path for the input board file.  
-        Enter input filepath : path/to/file
-   The tournament boards are in the "boards" directory.
-   The name of the files are the just the number. (Eg. 1 , 2 , 3 ,.... , 15)
+3. An introduction to the game will be shown with instructions on how to play the game. At the prompt, you will be asked to give path for the input board file.  
+      Enter input filepath : path/to/file  
+   The tournament boards are in the "boards" directory.  
+   The name of the files are the just the number. (Eg. 1 , 2 , 3 ,.... , 15)  
 4. After giving the input file path, you will be shown the intial board of the 
    game and you will be asked whether you want to play it manually or want the program to solve it for you.  
    If you choose to play it yourself, then jump to step 7.
