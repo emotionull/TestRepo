@@ -15,12 +15,12 @@ To play the game
    The tournament boards are in the "boards" directory. The name of the files are the just the number. (Eg. 1 , 2 , 3 ,.... , 15)  
 
 4. After giving the input file path, you will be shown the intial board of the game and you will be asked whether you want to play it manually or want the program to solve it for you.  
-   If you choose to play it yourself, then jump to step 7.  
+   If you choose to play it yourself, then jump to step 6.  
    Else if you select automatic, continue from next step.  
 
-6. It will take some time to solve the board depending on the size. While it is solving, it will show a PLEASE WAIT message. When solved, it will show the solved board and the time it took to solve it. Jump to step 10.  
+5. It will take some time to solve the board depending on the size. While it is solving, it will show a PLEASE WAIT message. When solved, it will show the solved board and the time it took to solve it. Jump to step 9.  
 
-7. At the prompt, you will be asked to specify your move.  
+6. At the prompt, you will be asked to specify your move.  
 ##MOVES  
    To draw a line around a cell, its position in the board (x,y co-ordinates)
    followed by the direction where you want to draw it (T -> Top, D ->  Down, R -> Right, L -> Left)   
@@ -28,10 +28,11 @@ To play the game
    For removing a line, type the same move again.  
    To Quit, type -> Q  
 
-8. After each move, the program will display the current board structure and status whether or not you have solved the puzzle.  
+7. After each move, the program will display the current board structure and status whether or not you have solved the puzzle.  
 
-9. After you have solved the puzzle, the program will exit.
-10. If you want to play again. Repeat from step 3.
+8. After you have solved the puzzle, the program will exit.  
+
+9. If you want to play again. Repeat from step 3.
 
 ####Note for the input file format
 
